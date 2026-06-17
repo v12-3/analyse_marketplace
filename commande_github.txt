@@ -1,8 +1,0 @@
-# ça ajoute tous les fichiers dans git
-git add .
-
-# ça créer un commit , en gros une version de tes fichiers
-git commit -m "met ton message, c'est un commentaire"
-
-# on sauvegarde sur github
-git push origin main
